@@ -146,8 +146,8 @@ namespace Proje
             pnlNav.Height = buttonlogin.Height;
             pnlNav.Top = buttonlogin.Top;
             buttonlogin.BackColor = Color.FromArgb(46, 51, 73);
-           
-
+            
+            
         }
         private void btnDashbord_Leave(object sender, EventArgs e)
         {
