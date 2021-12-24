@@ -32,8 +32,6 @@ namespace Proje
         }
 
         
-
- 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             
@@ -171,7 +169,7 @@ namespace Proje
 
         private void buttonlogin_Leave(object sender, EventArgs e)
         {
-            buttonlogin.BackColor = Color.FromArgb(33, 40, 66);
+            buttonlogin.BackColor = Color.FromArgb(45,45,45);
         }
 
         private void pictureBox23_Click(object sender, EventArgs e)
